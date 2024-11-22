@@ -15,6 +15,9 @@ Links from the video:
 - u8x8 display setup: https://github.com/olikraus/u8g2/wiki/u8x8setupcpp#gp1287ai-256x50
 - u8g2 documentation: https://github.com/olikraus/u8g2/wiki/u8g2reference
 - Short video showing the original gauges functioning: https://www.youtube.com/watch?v=aR26a9z75Vo
+- Someone recreating Honda gauges with LCD: https://honda-tech.com/forums/honda-prelude-4/4th-gen-lude-digi-fuel-temp-gauge-problem-2735099/page3/#post52555969
+- Transparent VFD Clock: https://s.click.aliexpress.com/e/_DcGebkt
+- VFD Clock: https://s.click.aliexpress.com/e/_DEBzER7
 
 Related videos:
 - VFD clock and character display: https://youtu.be/g7SOxzKatCc
